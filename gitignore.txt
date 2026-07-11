@@ -1,0 +1,12 @@
+# Build artifacts
+build
+
+# Waveforms
+*vcd
+*fst
+
+# Editor generated
+compile_commands.json
+.cache
+.nvim
+.clang-format
